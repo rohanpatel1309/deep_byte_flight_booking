@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "origin" : "Ahmedabad",
+    "destination": "Bengaluru",
+    "date": "10-10-2023"
+  },
+  {
+    "id": "2",
+    "origin" : "Bengaluru",
+    "destination": "Ahmedabad",
+    "date": "10-10-2023"
+  },
+  {
+    "id": "3",
+    "origin" : "Pune",
+    "destination": "Delhi",
+    "date": "12-10-2023"
+  },
+  {
+    "id": "4",
+    "origin" : "Chennai",
+    "destination": "Mumbai",
+    "date": "13-09-2023"
+  },
+  {
+    "id": "5",
+    "origin" : "Mumbai",
+    "destination": "Pune",
+    "date": "13-09-2023"
+  },
+  {
+    "id": "6",
+    "origin" : "Ahmedabad",
+    "destination": "Pune",
+    "date": "15-09-2023"
+  },
+  {
+    "id": "7",
+    "origin" : "New York",
+    "destination": "Ahmedabad",
+    "date": "15-11-2023"
+  },
+  {
+    "id": "8",
+    "origin" : "Ahmedabad",
+    "destination": "Dallas",
+    "date": "24-09-2023"
+  }
+]
